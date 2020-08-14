@@ -6,11 +6,13 @@ Parrot Os Theme For Kali Linux OS
 Following are the commands if you're n00b:-
 
 ```sh
-git clone https://github.com/m4xx101/kali_parrot_terminal.git
+git clone https://github.com/CYBER8-SPLOIT/Parrot4Kali.git
 
-cd kali_parrot_terminal/
+cd Parrot4Kali.git/
 
-chmod +x install.sh
+chmod +x install.py
 
-./install.sh
+python install.py
 ```
+
+Now You Can Enjoy Parrot Theme
